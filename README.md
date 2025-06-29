@@ -6,6 +6,6 @@ Got my hands on some Cisco hardware recently and want to set up and poke holes i
 1. Cisco 5506-x firewall
 2. Cisco 2901 router
 4. Cisco as2511-rj terminal router
-5. Cisco switch (version currently unknown)
+5. Cisco catalyst 3750-x switch
 
 ---
